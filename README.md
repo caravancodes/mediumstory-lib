@@ -1,7 +1,33 @@
 ## mediumstory-lib
 Medium sample for library
-- Medium story [CLick Here]()
+- Medium story [CLick Here](https://faisalamircs.medium.com/cara-membuat-library-androidmu-sendiri-dan-mempublishnya-di-github-38fe042035ef)
 
+## Version Release
+This Is Latest Release
+
+    $version_release = 2.0.0
+
+What's New??
+
+## Download this project
+
+### Step 1. Add the JitPack repository to your build file (build.gradle : Project)
+
+    Add it in your root build.gradle at the end of repositories:
+
+    	allprojects {
+    		repositories {
+    			...
+    			maven { url 'https://jitpack.io' }
+    		}
+    	}
+
+### Step 2. Add the dependency (build.gradle : Module)
+
+    dependencies {
+            // library frogo-recycler-view
+            implementation 'com.github.amirisback:mediumstory-lib:2.0.0'
+    }
 
 
 ## Colaborator
