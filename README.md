@@ -1,6 +1,7 @@
 ## mediumstory-lib
+[![JitPack](https://jitpack.io/v/amirisback/mediumstory-lib.svg?style=flat-square)](https://jitpack.io/#amirisback/mediumstory-lib)<br>
 Medium sample for library
-- Medium story [CLick Here](https://faisalamircs.medium.com/cara-membuat-library-androidmu-sendiri-dan-mempublishnya-di-github-38fe042035ef)
+- Medium story [Click Here](https://faisalamircs.medium.com/cara-membuat-library-androidmu-sendiri-dan-mempublishnya-di-github-38fe042035ef)
 
 ## Version Release
 This Is Latest Release
